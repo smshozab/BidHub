@@ -1,0 +1,1 @@
+Bid Nest is an ordinary but unique Auction Management System that can be used on both user ends for the purpose of placing bids on the objects you want or place objects on the data baae for other users to bid on them.
